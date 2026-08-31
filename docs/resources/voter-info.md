@@ -322,6 +322,9 @@ Bob Jonkman maintains listings of candidates and social media on his
 Poliblog](https://poliblog.jonkman.ca/Poliblog-Elections/2026-10-26-Municipal-Election/){:target="_blank"}
 site. We benefit from his research on our site.
 
+The Cambridge Chamber of Commerce is running a [Vote
+Remote](https://www.cambridgechamber.com/vote-remote) campaign to
+encourage employees to vote during the municipal election.
 
 ### I don't trust your candidate listings. Where can I find the real ones?
 
