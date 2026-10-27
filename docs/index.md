@@ -7,15 +7,16 @@ use-leaflet: true
 <section class="flex justify-center">
   <article class="standout-box blue large">
     <div class="big-text header" id="map-box" >
-    The Municipal Election is October 26, 2026
+    The Municipal Election <strong>was</strong> October 26, 2026
     </div>
 
-    <p>Use this website to learn about the municipal election, and the
-    candidates asking for your vote.
-    </p><p>
-    If you are feeling overwhelmed or confused
-    you can start by reading the <a href="./resources/voter-info">Information 
-    for Voters</a> page. 
+    <p>
+    Update, Oct 26: 
+    The election is now over. We will publish
+    <strong>unofficial</strong> results as
+    they become available. You will be able to see the winners in your
+    area by searching for your address, just as you did before the
+    election.
     </p>
 
     <div class="content" data-aos="fade-up">
